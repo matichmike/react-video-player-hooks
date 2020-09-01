@@ -1,3 +1,9 @@
+# React Video Player (w/Hooks)
+
+Video player tool that uses Youtube API this time with React Hooks instead of class based components
+
+The original React Video Player app with class based components is [HERE](https://github.com/matichmike/react-video-player)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
